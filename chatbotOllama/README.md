@@ -1,0 +1,2 @@
+# ChatBot-SecuenciasDidacticas-IA-Llama3
+ChatBot para creacion de secuencias didacticas con inteligencia artificial usando el modelo Llama3 de Ollama e integrándolo a una interfaz gráfica en un sitio web.
